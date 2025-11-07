@@ -1,5 +1,7 @@
-# 📊 1. The Job Application Bottleneck: How Data Can Humanize the Hiring Loop 
+# 📊 1. The Job Application Bottleneck
 Part 1 of Analytical Think Pieces
+
+How Data Can Humanize the Hiring Loop 
  
 In a world flooded with job applications, the silence after clicking “Apply” has become deafening.  
 But what if **data** — not automation alone — could make hiring more transparent, fair, and human?  
